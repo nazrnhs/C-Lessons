@@ -1,0 +1,24 @@
+﻿@using BizlandWeb.Models
+
+@model Service
+<div class="col-md-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Service</h4>
+            <form class="forms-sample" asp-action="Create">
+                <div class="form-group">
+                    <label asp-for="Name" for="exampleInputUsername1">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" id="exampleInputUsername1" placeholder="Name">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description" for="exampleInputUsername1">Description</label>
+                    <input asp-for="Description" type="text" class="form-control" id="exampleInputUsername1" placeholder="Description">
+                    <span asp-validation-for="Description"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button asp-action="Index" class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

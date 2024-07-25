@@ -12,7 +12,8 @@ namespace BizlandWeb.DAL
         public DbSet<Profession> Professions { get; set; }
         public DbSet<Service> Services { get; set; }
 
-        
+
+
 
     }
 }

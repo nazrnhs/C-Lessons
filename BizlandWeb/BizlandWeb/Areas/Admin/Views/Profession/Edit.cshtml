@@ -1,0 +1,19 @@
+﻿@using BizlandWeb.Models
+
+@model Profession
+<div class="col-md-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Edit Profession</h4>
+            <form class="forms-sample" asp-action="Edit">
+                <div class="form-group">
+                    <label asp-for="Name" for="exampleInputUsername1">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" id="exampleInputUsername1" placeholder="Name">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button asp-action="Index" class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

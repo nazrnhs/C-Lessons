@@ -1,0 +1,28 @@
+﻿@using BizlandWeb.Models
+
+@model Team
+<div class="col-md-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Edit Team</h4>
+            <form class="forms-sample" asp-action="Edit" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name" for="exampleInputUsername1">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" id="exampleInputUsername1" placeholder="Name">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Profession" for="exampleInputUsername1">Profession</label>
+                    <select asp-for="ProfessionId" asp-items="new SelectList(ViewBag.Profession, nameof(Profession.Id), nameof(Profession.Name))">Profession</select>
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ImageFile" for="exampleInputUsername1">Image</label>
+                    <input asp-for="ImageFile" class="form-control" id="exampleInputUsername1" placeholder="Image">
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button asp-action="Index" class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

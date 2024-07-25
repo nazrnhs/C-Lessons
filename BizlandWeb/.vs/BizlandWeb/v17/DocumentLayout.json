@@ -1,34 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\bizlandweb\\bizlandweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\bizlandweb\\bizlandweb\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\utilites\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\utilites\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\bizlandweb\\bizlandweb\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\team\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\team\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\bizlandweb\\bizlandweb\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\bizlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\bizlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\bizlandweb\\bizlandweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\bizlandweb\\bizlandweb\\migrations\\20240708093223_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\migrations\\20240708093223_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\bizlandweb\\bizlandweb\\bizlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\bizlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\service\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\service\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\profession\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\profession\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\profession\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\profession\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\profession\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\profession\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|c:\\users\\huawei\\desktop\\c#dersleri\\bizlandweb\\bizlandweb\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAC45C2-5B30-4942-8432-F067A88B3345}|BizlandWeb\\BizlandWeb.csproj|solutionrelative:bizlandweb\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +78,230 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BizlandWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BizlandWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T21:07:15.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BizlandWeb\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "BizlandWeb\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T08:56:21.157Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Models\\Service.cs",
-              "RelativeDocumentMoniker": "BizlandWeb\\Models\\Service.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Models\\Service.cs",
-              "RelativeToolTip": "BizlandWeb\\Models\\Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Utilites\\FileExtension.cs",
+              "RelativeDocumentMoniker": "BizlandWeb\\Utilites\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Utilites\\FileExtension.cs",
+              "RelativeToolTip": "BizlandWeb\\Utilites\\FileExtension.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T10:48:13.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BizlandWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BizlandWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T21:07:06.736Z",
+              "WhenOpened": "2024-07-25T06:44:59.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240708093223_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Migrations\\20240708093223_Init.cs",
-              "RelativeDocumentMoniker": "BizlandWeb\\Migrations\\20240708093223_Init.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\Migrations\\20240708093223_Init.cs",
-              "RelativeToolTip": "BizlandWeb\\Migrations\\20240708093223_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:32:23.588Z"
+              "DocumentIndex": 3,
+              "Title": "BizlandWeb",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\BizlandWeb.csproj",
+              "RelativeDocumentMoniker": "BizlandWeb\\BizlandWeb.csproj",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\BizlandWeb.csproj",
+              "RelativeToolTip": "BizlandWeb\\BizlandWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T06:43:50.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BizlandWeb.csproj",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\BizlandWeb.csproj",
-              "RelativeDocumentMoniker": "BizlandWeb\\BizlandWeb.csproj",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\BizlandWeb.csproj",
-              "RelativeToolTip": "BizlandWeb\\BizlandWeb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-08T08:55:54.633Z"
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T06:38:27.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Service\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Service\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Service\\Edit.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Service\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T06:28:52.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAEsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:12:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T06:25:55.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T06:23:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T06:23:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:13:22.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "BizlandWeb\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\BizlandWeb\\BizlandWeb\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "BizlandWeb\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Team\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T21:30:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:39:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:20:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAAOUBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:44:39.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:55:36.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Profession\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Profession\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Profession\\Edit.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Profession\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T18:53:15.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T07:17:19.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfessionController.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "RelativeDocumentMoniker": "BizlandWeb\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\C#Dersleri\\BizlandWeb\\BizlandWeb\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "RelativeToolTip": "BizlandWeb\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:51:50.982Z"
+              "WhenOpened": "2024-07-23T11:09:36.514Z",
+              "EditorCaption": ""
             }
           ]
         }

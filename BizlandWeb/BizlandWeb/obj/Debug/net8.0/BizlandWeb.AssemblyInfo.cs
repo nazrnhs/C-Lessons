@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BizlandWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c36f791e9bc82dac485078ed3523e8781b97dcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BizlandWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BizlandWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
